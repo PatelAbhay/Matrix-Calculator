@@ -5,6 +5,7 @@ the implemented operations are:
 * Matrix Addition
 * Matrix Subtraction
 * Scalar Multiplication
+* Transpose of a Matrix
 * Matrix Multiplication
 
 Will later implement the following:
