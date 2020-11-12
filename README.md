@@ -6,3 +6,8 @@ the implemented operations are:
 * Matrix Subtraction
 * Scalar Multiplication
 * Matrix Multiplication
+
+Will later implement the following:
+* Invertibility/Inverse
+* Determinant
+* Eigenvalues/Eigenvectors
